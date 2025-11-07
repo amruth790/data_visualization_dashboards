@@ -22,7 +22,6 @@ Learned the fundamentals of Tableau and connected it to a PostgreSQL database fo
 This project visualizes sales performance using Tableau Public.  
 It includes interactive dashboards showing **Sales**, **Profit**, and **Category Trends** across regions.
 
----
 
 ## 📊 Features
 - Sales vs Profit Analysis
@@ -37,4 +36,27 @@ This project demonstrates:
 - Connecting data files to Tableau  
 - Creating bar and scatter plots  
 - Designing dashboards with filters and colors  
-- Publishing Tableau projects to the cloud  
+- Publishing Tableau projects to the cloud
+
+
+
+
+# 3
+# # Interactive Sales Dashboard – Tableau
+
+This Tableau project demonstrates how to build interactive dashboards using filters, drilldowns, and dashboard actions.  
+The dashboard visualizes **Sales** and **Profit** data with multiple interactive charts.
+
+
+## ✨ Features
+- Clickable filters and highlights  
+- Date and region filters  
+- Drill-down from Category → Sub-category  
+- Dynamic dashboard actions  
+
+
+## 🧠 Learning Outcome
+- Creating interactive visualizations in Tableau  
+- Using filters and hierarchies  
+- Implementing dashboard actions  
+
