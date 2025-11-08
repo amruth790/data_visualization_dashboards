@@ -23,7 +23,7 @@ This project visualizes sales performance using Tableau Public.
 It includes interactive dashboards showing **Sales**, **Profit**, and **Category Trends** across regions.
 
 
-## 📊 Features
+##  Features
 - Sales vs Profit Analysis
 - Category and Regional Filters
 - Interactive Dashboards built in Tableau Public
@@ -31,7 +31,7 @@ It includes interactive dashboards showing **Sales**, **Profit**, and **Category
 
 
 
-## 🧠 Learning Outcome
+##  Learning Outcome
 This project demonstrates:
 - Connecting data files to Tableau  
 - Creating bar and scatter plots  
@@ -48,14 +48,14 @@ This Tableau project demonstrates how to build interactive dashboards using filt
 The dashboard visualizes **Sales** and **Profit** data with multiple interactive charts.
 
 
-## ✨ Features
+##  Features
 - Clickable filters and highlights  
 - Date and region filters  
 - Drill-down from Category → Sub-category  
 - Dynamic dashboard actions  
 
 
-## 🧠 Learning Outcome
+##  Learning Outcome
 - Creating interactive visualizations in Tableau  
 - Using filters and hierarchies  
 - Implementing dashboard actions  
