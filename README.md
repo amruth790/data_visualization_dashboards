@@ -60,3 +60,24 @@ The dashboard visualizes **Sales** and **Profit** data with multiple interactive
 - Using filters and hierarchies  
 - Implementing dashboard actions  
 
+
+
+
+# 4
+
+# Power BI Basics
+
+**Overview:**  
+This project demonstrates the fundamentals of using Power BI for data visualization.  
+It includes connecting to a PostgreSQL database (or CSV file), cleaning data, and creating  
+a simple report with bar charts, line charts, and KPI cards.
+
+**Steps Covered:**
+- Connect Power BI to data sources  
+- Transform data in Power Query  
+- Build and format visuals  
+- Create a clean, informative report layout
+
+**Files:**
+- `sales_data.csv` – Sample dataset  
+- `sales_report.pbix` – Power BI dashboard file  
