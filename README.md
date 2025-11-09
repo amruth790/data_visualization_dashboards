@@ -81,3 +81,25 @@ a simple report with bar charts, line charts, and KPI cards.
 **Files:**
 - `sales_data.csv` – Sample dataset  
 - `sales_report.pbix` – Power BI dashboard file  
+
+
+# 5
+
+# # Advanced Dashboard Features
+
+**Overview:**  
+This project builds on the basic Power BI dashboard by adding interactive and analytical features such as KPI visuals, slicers, and drillthrough pages.  
+It focuses on improving the storytelling aspect of the dashboard and making it more user-friendly.
+
+**Features Added:**
+- KPI cards showing total sales and growth
+- Interactive slicers for category and region
+- Drillthrough page with detailed transaction data
+- Custom visuals and formatted tooltips
+
+**Files:**
+- `sales_data.csv` – Dataset used  
+- `sales_dashboard_advanced.pbix` – Enhanced Power BI dashboard
+
+
+
