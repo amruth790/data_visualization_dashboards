@@ -102,4 +102,16 @@ It focuses on improving the storytelling aspect of the dashboard and making it m
 - `sales_dashboard_advanced.pbix` – Enhanced Power BI dashboard
 
 
+# 6
 
+# Project: Sales Dashboard (Power BI)
+
+This project demonstrates how to design a fully interactive Sales Performance Dashboard using Power BI.
+It visualizes key business metrics such as total sales, profit, and regional performance with interactivity through slicers and filters.
+The dataset is imported from CSV, cleaned, and transformed before visualizing key insights.
+
+**Features:**
+Dynamic charts and KPIs
+Drill-down filters
+Clean, professional layout
+Insightful visualization for data-driven decisions
